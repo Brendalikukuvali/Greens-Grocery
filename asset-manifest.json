@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Greens-Grocery/static/css/main.5de3e5a8.chunk.css",
+    "main.js": "/Greens-Grocery/static/js/main.73ce3eb9.chunk.js",
+    "main.js.map": "/Greens-Grocery/static/js/main.73ce3eb9.chunk.js.map",
+    "runtime-main.js": "/Greens-Grocery/static/js/runtime-main.15f3ef51.js",
+    "runtime-main.js.map": "/Greens-Grocery/static/js/runtime-main.15f3ef51.js.map",
+    "static/js/2.7838f3a2.chunk.js": "/Greens-Grocery/static/js/2.7838f3a2.chunk.js",
+    "static/js/2.7838f3a2.chunk.js.map": "/Greens-Grocery/static/js/2.7838f3a2.chunk.js.map",
+    "index.html": "/Greens-Grocery/index.html",
+    "static/css/main.5de3e5a8.chunk.css.map": "/Greens-Grocery/static/css/main.5de3e5a8.chunk.css.map",
+    "static/js/2.7838f3a2.chunk.js.LICENSE.txt": "/Greens-Grocery/static/js/2.7838f3a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f3ef51.js",
+    "static/js/2.7838f3a2.chunk.js",
+    "static/css/main.5de3e5a8.chunk.css",
+    "static/js/main.73ce3eb9.chunk.js"
+  ]
+}
