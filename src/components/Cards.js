@@ -10,13 +10,13 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='/Images/imageB.jpg'
+              src='/images/imageB.jpg'
               text='We have different types of fruits for you at a friendly price according to your needs'
               label='Fruits'
               path='/fruits'
             />
             <CardItem
-              src='/Images/imageC.jpg'
+              src='/images/imageC.jpg'
               text='Vegetables of different kinds at a very friendly price according to your needs'
               label='Vegetables'
               path='/vegetables'
@@ -24,19 +24,19 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='/Images/apple.jpeg'
+              src='/images/apple.jpeg'
               text='Fresh and sweet'
               label='Apples'
               path='/fruits'
             />
             <CardItem
-              src='Images/avoca.jpg'
+              src='/images/avoca.jpg'
               text='Fresh and sweet'
               label='Avocado'
               path='/fruits'
             />
             <CardItem
-              src='/Images/grape.jpg'
+              src='/images/grape.jpg'
               text='Fruits and vegetables'
               label='Grapes'
               path='/fruits'
@@ -45,19 +45,19 @@ function Cards() {
           
           <ul className='cards__items'>
             <CardItem
-              src='/Images/pawpaw.jpg'
+              src='/images/pawpaw.jpg'
               text='Fresh and sweet pawpaw'
               label='Apples'
               path='/fruits'
             />
             <CardItem
-              src='/Images/guava.jpg'
+              src='/images/guava.jpg'
               text='Fresh and sweet guavas'
               label='Guavas'
               path='/fruits'
             />
             <CardItem
-              src='/Images/melon.jpg'
+              src='/images/melon.jpg'
               text='Fresh and sweet water melon'
               label='Water melon'
               path='/fruits'
@@ -66,19 +66,19 @@ function Cards() {
           
           <ul className='cards__items'>
             <CardItem
-              src='/Images/imageD.jpg'
+              src='./images/imageD.jpg'
               text='Fresh fruveggies'
               label='Fruveggies'
               path='/all'
             />
             <CardItem
-              src='/Images/imageE.jpg'
+              src='/images/imageE.jpg'
               text='Fruits and vegetables at an affordable price'
               label='Fruveggies'
               path='/all'
             />
             <CardItem
-              src='/Images/imageF.jpg'
+              src='/images/imageF.jpg'
               text='Always fresh and sweet'
               label='Fruveggies'
               path='/all'
@@ -87,19 +87,19 @@ function Cards() {
 
           <ul className='cards__items'>
             <CardItem
-              src='/Images/broco.jpg'
+              src='/images/broco.jpg'
               text='Fresh and sweet Brocoli'
               label='Brocolli'
               path='/vegetables'
             />
             <CardItem
-              src='/Images/onion.jpg'
+              src='/images/onion.jpg'
               text='Fresh onions available'
               label='Onions'
               path='/vegetables'
             />
             <CardItem
-              src='/Images/tomato.jpeg'
+              src='/images/tomato.jpeg'
               text='Fresh tomatoes'
               label='Tomatoes'
               path='/vegetables'
@@ -108,19 +108,19 @@ function Cards() {
 
           <ul className='cards__items'>
             <CardItem
-              src='/Images/cucu.jpg'
+              src='/images/cucu.jpg'
               text='Fresh cucumbers available'
               label='Cucumber'
               path='/vegetables'
             />
             <CardItem
-              src='/Images/kales.jpg'
+              src='/images/kales.jpg'
               text='Fresh kales available'
               label='Kales'
               path='/vegetables'
             />
             <CardItem
-              src='/Images/spinach.jpg'
+              src='/images/spinach.jpg'
               text='Fresh spinach available'
               label='Spinach'
               path='/vegetables'

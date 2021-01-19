@@ -6,6 +6,8 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Fruits from './components/pages/Fruits';
 import Vegetables from './components/pages/Vegetables';
 import SignUp from './components/pages/SignUp';
+// import video from './public/videos';
+// import image from './public/images';
 
 function App() {
   return (
@@ -13,14 +15,14 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          {/* <Route path='/' exact component={Home} />
+          <Route path='/' exact component={Home} />
           <Route path='/fruits' component={Fruits} />
           <Route path='/vegetables' component={Vegetables} />
-          <Route path='/sign-up' component={SignUp} /> */}
-           <Route path='/Greens-Grocery/' exact component={Home} />
+          <Route path='/sign-up' component={SignUp} />
+          {/* <Route path='/Greens-Grocery/' exact component={Home} />
           <Route path='/Greens-Grocery/fruits' component={Fruits} />
           <Route path='/Greens-Grocery/vegetables' component={Vegetables} />
-          <Route path='/Greens-Grocery/sign-up' component={SignUp} />
+          <Route path='/Greens-Grocery/sign-up' component={SignUp} /> */}
 
         </Switch>
       </Router>
