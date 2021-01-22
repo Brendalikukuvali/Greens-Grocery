@@ -66,7 +66,7 @@
     font-size: 12px;
     font-weight: 700;
     color: #fff;
-    background-color: #1f98f4;
+    background-color:green;
     box-sizing: border-box;
   }
   
@@ -92,10 +92,16 @@
   .cards__item__info {
     padding: 20px 30px 30px;
   }
+
+  .cards__item__price {
+    color: green;
+    font-size: 16px;
+    line-height: 24px;
+  }
   
   .cards__item__text {
-    color: #252e48;
-    font-size: 18px;
+    color: black;
+    font-size: 15px;
     line-height: 24px;
   }
   
