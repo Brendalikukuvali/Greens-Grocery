@@ -38,6 +38,13 @@ function Cards() {
               path='/fruits'
             />
             <CardItem
+              src='/images/orange.jpg'
+              price='@ Ksh.50 Each'
+              text='Fresh and sweet'
+              label='Orange'
+              path='/fruits'
+            />
+            <CardItem
               src='/images/grape.jpg'
               price='@ Ksh.150 per Kg'
               text='Fruits and vegetables'
@@ -62,6 +69,13 @@ function Cards() {
               path='/fruits'
             />
             <CardItem
+              src='/images/pin.jpg'
+              price='@ Ksh.150 Each'
+              text='Fresh and sweet'
+              label='Pineapple'
+              path='/fruits'
+            />
+            <CardItem
               src='/images/melon.jpg'
               price='@ Ksh.350 Each'
               text='Fresh and sweet water melon'
@@ -72,21 +86,28 @@ function Cards() {
           
           <ul className='cards__items'>
             <CardItem
-              src='./images/imageD.jpg'
+              src='./images/fru.jpg'
               price='@ Ksh.500 per Basket'
               text='Fresh fruveggies'
               label='Fruveggies'
               path='/all'
             />
             <CardItem
-              src='/images/imageE.jpg'
+              src='/images/img.jpg'
               price='@ Ksh.500 per Basket'
               text='Fresh and at an affordable '
               label='Fruveggies'
               path='/all'
             />
             <CardItem
-              src='/images/imageF.jpg'
+              src='/images/frug.jpg'
+              price='@ Ksh.500 per basket'
+              text='Fresh and sweet'
+              label='Fruveggies'
+              path='/fruits'
+            />
+            <CardItem
+              src='/images/frus.jpg'
               price='@ Ksh.500 per Basket'
               text='Always fresh and sweet'
               label='Fruveggies'
@@ -108,6 +129,13 @@ function Cards() {
               text='Fresh onions available'
               label='Onions'
               path='/vegetables'
+            />
+            <CardItem
+              src='/images/avoca.jpg'
+              price='@ Ksh.50 Each'
+              text='Fresh beetroots'
+              label='Beetroot'
+              path='/fruits'
             />
             <CardItem
               src='/images/tomato.jpeg'
@@ -132,6 +160,13 @@ function Cards() {
               text='Fresh kales available'
               label='Kales'
               path='/vegetables'
+            />
+            <CardItem
+              src='/images/cabbe.jpg'
+              price='@ Ksh.50 Each'
+              text='Fresh and sweet'
+              label='Cabbages'
+              path='/fruits'
             />
             <CardItem
               src='/images/spinach.jpg'
