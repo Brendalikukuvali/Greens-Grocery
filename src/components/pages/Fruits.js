@@ -7,13 +7,13 @@
 
 import React from 'react';
 import '../../App.css';
-import Products from '../Products';
+import Product1 from '../Product1';
 import Footer from '../Footer';
 
 function  Fruits() {
   return (
     <> 
-      <Products />
+      <Product1 />
       <Footer />
     </>
   );

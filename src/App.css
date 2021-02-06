@@ -17,21 +17,23 @@
   }
    .fruits {
     /* background-image: url('/Images/imageJ.jpg'); */
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2f/Culinary_fruits_front_view.jpg');
+    /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2f/Culinary_fruits_front_view.jpg'); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    color:green;
+    text-transform: uppercase;
+    font-size: 60px;
   } 
   .vegetables {
-    background-image: url('https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/powerhouse_vegetables_slideshow/650x350_powerhouse_vegetables_slideshow.jpg');
     /* background-image: url('/Images/imageA.jpg'); */
+    /* background-image: url('https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/powerhouse_vegetables_slideshow/650x350_powerhouse_vegetables_slideshow.jpg'); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    color:green;
+    text-transform: uppercase;
+    font-size: 60px;
   }
   
   .sign-up {
@@ -41,6 +43,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
+    text-transform: uppercase;
     font-size: 100px;
   }   
   
